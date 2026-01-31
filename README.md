@@ -76,16 +76,16 @@ MovieCodex comes packed with powerful features to enhance your movie and TV show
 ### Home Page
 <img src="https://img.ionicerrrrscode.com/company-projects/moviecodex-movie-tv-guide-website/0.webp?v=1768773121199" alt="Home Page" width="700"/>
 
-### Movie Details
+### Season Details
 <img src="https://img.ionicerrrrscode.com/company-projects/moviecodex-movie-tv-guide-website/1.webp?v=1768773137753" alt="Movie Details" width="700"/>
 
-### TV Show Information
+### Trending Information
 <img src="https://img.ionicerrrrscode.com/company-projects/moviecodex-movie-tv-guide-website/2.webp?v=1768773138766" alt="TV Show Information" width="700"/>
 
 ### Browse Collection
 <img src="https://img.ionicerrrrscode.com/company-projects/moviecodex-movie-tv-guide-website/3.webp?v=1768773139793" alt="Browse Collection" width="700"/>
 
-### User Features
+### Movie Details
 <img src="https://img.ionicerrrrscode.com/company-projects/moviecodex-movie-tv-guide-website/4.webp?v=1768773140786" alt="User Features" width="700"/>
 
 </div>
